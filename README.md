@@ -3,6 +3,7 @@
 ### I'm a mobile developer 📲
 
 - 🏹 Currently Working on A large scale accounting and ERP System development platform.
+- ✅ Created more than +10 apps from scatch to deployment.
 
 ### Connect with me:
 
