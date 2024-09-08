@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="26px" src="https://cdn-icons-png.freepik.com/512/181/181525.png" style="padding-right:10px;" />][Portfolio]
+[<img align="left" alt="website" width="26px" src="https://cdn-icons-png.flaticon.com/512/2160/2160036.png" style="padding-right:10px;" />][Portfolio]
 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samuel-anis-318941318#gh-light-mode-only)
