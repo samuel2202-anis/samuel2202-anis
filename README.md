@@ -2,7 +2,7 @@
 
 ### I'm a mobile developer 📲
 
-- 🏹 Currently Working on A large scale Accounting and real estate development platform.
+- 🏹 Currently Working on A large scale accounting and ERP System development platform.
 
 ### Connect with me:
 
