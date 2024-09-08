@@ -1,6 +1,6 @@
 ## Hi I'm Samuel 👋
 
-## I'm a mobile developer 📲
+### I'm a mobile developer 📲
 
 - 🏹 Currently Working on A large scale Accounting and real estate development platform.
 
