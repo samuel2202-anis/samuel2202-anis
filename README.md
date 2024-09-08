@@ -1,9 +1,9 @@
 ## Hi I'm Samuel 👋
 
-### I'm a mobile developer 📲
+### I'm a Mobile Developer 📲
 
 - 🏹 Currently Working on A large scale accounting and ERP System development platform.
-- ✅ Created more than +10 apps from scatch to deployment.
+- ✅ I have successfully created and deployed more than 10 apps from scratch.
 
 ### Connect with me:
 
