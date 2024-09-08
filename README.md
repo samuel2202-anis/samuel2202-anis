@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Samuel 👋
 
-<!--
-**samuel2202-anis/samuel2202-anis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a mobile developer 📲
 
-Here are some ideas to get you started:
+- 🏹 Currently Working on A large scale Accounting and real estate development platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="website" width="26px" src="https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg" style="padding-right:10px;" />][Portfolio]
+
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yousef-orabi-80611b196#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yousef-orabi-80611b196#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+
+
+[linkedin]: www.linkedin.com/in/samuel-anis-318941318
+[Portfolio]:https://samuelanis.framer.website/
