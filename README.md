@@ -1,21 +1,24 @@
-## Hi I'm Samuel 👋
+## 👋 Hi, I'm Samuel Anis
 
-### I'm a Mobile Developer 📲
+### 📱 Mobile Developer | Flutter Enthusiast
 
-- 🏹 Currently Working on A large scale accounting and ERP System development platform.
-- ✅ I have successfully created and deployed more than 10 apps from scratch.
+- 🚀 Passionate about building clean, scalable, and high-performance mobile apps.
+- 🧠 Always learning and exploring advanced topics like Riverpod, Clean Architecture, Supabase, WebSockets, and more.
+- 🛠️ Currently working on a large-scale **Accounting and ERP System** with a strong focus on performance and architecture.
+- ✅ Successfully created and deployed **10+ full-featured apps** from scratch.
+- 🎯 Experienced in integrating payment gateways, building custom animations, and implementing real-time features like chat and notifications.
+- 📦 Published packages on [pub.dev](https://pub.dev) including **Egypt Map Chart**.
 
-### Connect with me:
+---
+
+### 🔗 Connect with me:
 
 [<img align="left" alt="website" width="26px" src="https://cdn-icons-png.flaticon.com/512/2160/2160036.png" style="padding-right:10px;" />][Portfolio]
 
+[![LinkedIn Light](./img/linkedin-light.svg)](https://www.linkedin.com/in/samuel-anis-318941318#gh-light-mode-only)
+[![LinkedIn Dark](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samuel-anis-318941318#gh-dark-mode-only)
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samuel-anis-318941318#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samuel-anis-318941318#gh-dark-mode-only)
-&nbsp;&nbsp;
+---
 
-
-
-
-[linkedin]: www.linkedin.com/in/samuel-anis-318941318
-[Portfolio]:https://samuelanis.framer.website/
+[linkedin]: https://www.linkedin.com/in/samuel-anis-318941318
+[Portfolio]: https://samuelanis.framer.website/
